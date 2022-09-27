@@ -1,5 +1,3 @@
-
-
 // ==UserScript==
 // @name         YouTube ad skipper and speed changer
 // @name:ja      youtube自動広告スキッパー
