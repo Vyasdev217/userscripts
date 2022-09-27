@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         nitpy_lan_autologin
-// @namespace    https://gist.github.com/Vyasdev217
+// @namespace    https://github.com/Vyasdev217
 // @version      1.0
 // @description  Auto login script for nitpy campus wifi
 // @author       Lone wolf
