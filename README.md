@@ -16,7 +16,7 @@ It also has an additional feature of changing a video's playback speed from a nu
 
 This script automates the process of entering username/password and clicking Signin button in NITPY wifi login page
 
-## YouTube_HomePage_NoDistraction
+## YouTube_HomePage_NoDistraction(Experimental)
 
 [Install](https://github.com/Vyasdev217/userscripts/raw/main/YouTube_HomePage_NoDistraction.user.js)
 
