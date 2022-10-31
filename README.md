@@ -20,4 +20,4 @@ This script automates the process of entering username/password and clicking Sig
 
 [Install](https://github.com/Vyasdev217/userscripts/raw/main/YouTube_HomePage_NoDistraction.user.js)
 
-This script removes video suggestions from youtube homepage to avoid distraction
+This script makes youtube homepage disable
