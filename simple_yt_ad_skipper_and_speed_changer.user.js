@@ -9,8 +9,8 @@
 // @match        https://www.youtube.com/*
 // @grant        none
 // @license      MIT
-// @downloadURL  https://github.com/Vyasdev217/userscripts/raw/main/simple_yt_ad_skipper_and_speed_changer.user.js.user.js
-// @updateURL	 https://github.com/Vyasdev217/userscripts/raw/main/simple_yt_ad_skipper_and_speed_changer.user.js.user.js
+// @downloadURL  https://github.com/Vyasdev217/userscripts/raw/main/simple_yt_ad_skipper_and_speed_changer.user.js
+// @updateURL	 https://github.com/Vyasdev217/userscripts/raw/main/simple_yt_ad_skipper_and_speed_changer.user.js
 // ==/UserScript==
 
 var pbs = document.createElement("INPUT");
