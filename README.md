@@ -4,7 +4,7 @@
 
 ## Youtube ad skipper and speed changer
 
-[Install](https://github.com/Vyasdev217/userscripts/raw/main/simple_yt_ad_skipper_and_speed_changer.user.js.user.js)
+[Install](https://github.com/Vyasdev217/userscripts/raw/main/simple_yt_ad_skipper_and_speed_changer.user.js)
 
 This script uses mutation observer to detect the changes made in youtube page and automatically clicks SkipAd button when available
 
@@ -16,8 +16,3 @@ It also has an additional feature of changing a video's playback speed from a nu
 
 This script automates the process of entering username/password and clicking Signin button in NITPY wifi login page
 
-## YouTube_HomePage_NoDistraction(Experimental)
-
-[Install](https://github.com/Vyasdev217/userscripts/raw/main/YouTube_HomePage_NoDistraction.user.js)
-
-This script makes youtube homepage disable
