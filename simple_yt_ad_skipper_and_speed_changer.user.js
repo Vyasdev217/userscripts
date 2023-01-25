@@ -2,7 +2,7 @@
 // @name         YouTube ad skipper and speed changer
 // @name:ja      youtube自動広告スキッパー
 // @namespace    https://github.com/Vyasdev217
-// @version      1.0
+// @version      2.0
 // @description  Simple ad skipper for youtube (This is not ad blocker)
 // @description:ja youtubeの広告を自動スキップ
 // @author       Vyasdev
