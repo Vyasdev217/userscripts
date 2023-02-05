@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         The Hindu anti anti-ad-blocker
 // @namespace    https://github.com/Vyasdev217
-// @version      0.2
+// @version      0.3
 // @description  Removes css of anti anti-ad-blocker modal in The Hindu website
 // @author       Vyasdev
 // @match        https://www.thehindu.com/*
