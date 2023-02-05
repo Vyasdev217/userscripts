@@ -7,6 +7,7 @@
 // @match        https://www.thehindu.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=thehindu.com
 // @grant        none
+// @downloadURL  https://github.com/Vyasdev217/userscripts/raw/main/anti_anti-ad-blocker_for_The_Hindu_online_news_website.user.js
 // @updateURL    https://github.com/Vyasdev217/userscripts/raw/main/anti_anti-ad-blocker_for_The_Hindu_online_news_website.user.js
 // ==/UserScript==
 
