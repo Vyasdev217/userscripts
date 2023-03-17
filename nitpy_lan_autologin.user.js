@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         nitpy_lan_autologin
 // @namespace    https://github.com/Vyasdev217
-// @version      1.1
+// @version      1.2
 // @description  Auto login script for nitpy campus wifi
 // @author       Lone wolf
-// @match        https://scg.ruckuswireless.com:9998/SubscriberPortal/*
+// @match        https://smartzone1.nitpy.ac.in:9998/SubscriberPortal/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ruckuswireless.com
 // @downloadURL	 https://github.com/Vyasdev217/userscripts/raw/main/nitpy_lan_autologin.user.js
 // @updateURL    https://github.com/Vyasdev217/userscripts/raw/main/nitpy_lan_autologin.user.js
