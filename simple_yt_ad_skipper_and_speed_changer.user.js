@@ -2,7 +2,7 @@
 // @name         YouTube ad skipper and speed changer
 // @name:ja      youtube自動広告スキッパー
 // @namespace    https://github.com/Vyasdev217
-// @version      2.0
+// @version      2.1
 // @description  Simple ad skipper for youtube (This is not ad blocker)
 // @description:ja youtubeの広告を自動スキップ
 // @author       Vyasdev
@@ -24,6 +24,7 @@ pbs.addEventListener("change",function(){if(pbs.value>0){document.getElementsByT
 document.getElementById('center').appendChild(pbs);
 
 const observer = new MutationObserver((mutations) => {
+  //if(window.location.toString().includes("shorts")){window.location="https://youtube.com"} // To block youtube shorts for better productivity
   mutations.forEach((mutation) => {
       if (document.contains(document.getElementsByClassName('ytp-ad-skip-button ytp-button')[0])) {
           document.getElementsByClassName('ytp-ad-skip-button ytp-button')[0].click();
