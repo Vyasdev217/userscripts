@@ -13,7 +13,3 @@ It also has an additional feature of changing a video's playback speed from a nu
 ## NITPY wifi auto login [[Install]](https://github.com/Vyasdev217/userscripts/raw/main/nitpy_lan_autologin.user.js)
 
 This script automates the process of entering username/password and clicking Signin button in NITPY wifi login page
-
-## Anti anti-ad-blocker for thehindu.com (Experimental) [[Install]](https://github.com/Vyasdev217/userscripts/raw/main/anti_anti-ad-blocker_for_The_Hindu_online_news_website.user.js)
-
-This script removes css part of anti anti-ad-blocker modal in The Hindu website
